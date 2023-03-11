@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Combats\Combats\bin\Debug\Combats.exe.config
+C:\Users\USER\source\repos\Combats\Combats\bin\Debug\Combats.exe
+C:\Users\USER\source\repos\Combats\Combats\bin\Debug\Combats.pdb
+C:\Users\USER\source\repos\Combats\Combats\obj\Debug\Combats.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Combats\Combats\obj\Debug\Combats.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Combats\Combats\obj\Debug\Combats.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Combats\Combats\obj\Debug\Combats.exe
+C:\Users\USER\source\repos\Combats\Combats\obj\Debug\Combats.pdb
+C:\Users\Niku_ac46\Documents\Combats\Combats\bin\Debug\Combats.exe.config
+C:\Users\Niku_ac46\Documents\Combats\Combats\bin\Debug\Combats.exe
+C:\Users\Niku_ac46\Documents\Combats\Combats\bin\Debug\Combats.pdb
+C:\Users\Niku_ac46\Documents\Combats\Combats\obj\Debug\Combats.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\Documents\Combats\Combats\obj\Debug\Combats.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\Documents\Combats\Combats\obj\Debug\Combats.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\Documents\Combats\Combats\obj\Debug\Combats.exe
+C:\Users\Niku_ac46\Documents\Combats\Combats\obj\Debug\Combats.pdb
